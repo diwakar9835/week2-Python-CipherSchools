@@ -9,7 +9,7 @@ while not game_over:
         print(f"you win, and you gussed this number in {guess} times ")
         game_over = True
     else:
-        if number < winning_number:
+        if number < winning_number: 
             print("too low ")
         else : 
             print("too high")
