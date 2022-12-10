@@ -1,5 +1,5 @@
 def reverse_elements(l):
-    elements=[]
+    elements=[] 
     for i in l:
         elements.append(i[::-1])
     return elements
