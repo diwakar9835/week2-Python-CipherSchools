@@ -5,7 +5,7 @@ if name == "harshit":
 else:
     print("you are not harshit")
 
-# while
+# while 
 i=0
 while i<10:
     print("hello world")
