@@ -2,7 +2,7 @@
 numbers = list(range(1,11))
 print(numbers)
 
-# something more about pop method
+# something more about pop method 
 numbers = list(range(1,11))
 popped_item=numbers.pop()
 print(numbers)
